@@ -129,7 +129,7 @@ input[type="number"]::-webkit-outer-spin-button {
   bottom: 0.53333rem;
   -webkit-transform: translate(-50%, 0);
   transform: translate(-50%);
-  background: var(--bg_color_L2);
+  background: #fff;
   width: 1.46667rem;
   height: 1.46667rem;
   border-radius: 50%;
@@ -145,7 +145,7 @@ input[type="number"]::-webkit-outer-spin-button {
   border-radius: 50%;
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
-  background: var(--main_gradient-color2);
+  background: var(--main-color);
 }
 .tabbar__container-item svg[data-v-6ab3f23e] {
   display: block;
@@ -1348,7 +1348,7 @@ textarea {
   color: var(--text_color_L1);
 }
 :root {
-  --main-color: #f5900b;
+  --main-color: #8f00ff;
   --main_gradient-color: linear-gradient(90deg, #f5b73b 0%, #f5853b 100%);
   --main_gradient-color2: linear-gradient(180deg, #f5b73b 0%, #f5853b 100%);
   --norm_red-color: #d23838;
@@ -1358,11 +1358,11 @@ textarea {
   --norm_bule-color: #5088d3;
   --button_dis_color: #454456;
   --text_color_L1: #f0f1f5;
-  --text_color_L2: #acafc2;
+  --text_color_L2: #768096;
   --text_color_L3: #757ba6;
   --text_color_L4: #f0f1f5;
-  --bg_color_L1: #1a1918;
-  --bg_color_L2: #222121;
+  --bg_color_L1: #ffffff;
+  --bg_color_L2: #8f00ff;
   --bg_color_L3: #40392e;
   --Dividing-line_color: #40392e;
   --sheet_nva_color: #40392e;

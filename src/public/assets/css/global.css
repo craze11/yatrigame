@@ -1,0 +1,22 @@
+:root {
+  --text-foreground: #ffffff;
+  --text-primary: #8f00ff;
+  --text-secondary: #333;
+  --text-accent: #f5a93b;
+}
+
+.text-secondary {
+  color: var(--text-secondary);
+}
+
+.text-primary {
+  color: var(--text-primary);
+}
+
+.text-accent {
+  color: var(--text-accent);
+}
+
+.text-foreground {
+  color: var(--text-foreground);
+}

@@ -1495,7 +1495,6 @@ html:lang(ar) .lotteryGamesList__container-item__time[data-v-22e2ba37] {
   padding-left: 0.26667rem;
   font-size: 0.48rem;
   font-weight: 700;
-  color: var(--darkTextW, var(--text_color_L1));
 }
 .luckyWinners__container > h1[data-v-ffb14677]:before {
   content: "";
@@ -3140,7 +3139,7 @@ html:lang(ar) .lotteryGamesList__container-item__time[data-v-22e2ba37] {
   font-weight: 600;
   background: var(
     --Gradient-1,
-    linear-gradient(93deg, #40392E 7.38%, #4675d2 94.48%)
+    linear-gradient(93deg, #40392e 7.38%, #4675d2 94.48%)
   );
   margin: auto;
 }
