@@ -1419,7 +1419,7 @@ textarea {
   color: var(--text_color_L1);
 }
 .navbar.main .navbar-fixed[data-v-12a80a3e] {
-  background: var(--light-main_gradient-color, var(--bg_color_L2));
+  background: var(--text-primary);
 }
 .navbar.main .navbar-fixed .navbar__content-left .van-icon[data-v-12a80a3e],
 .navbar.main .navbar-fixed .navbar__content-center[data-v-12a80a3e] {
@@ -1435,7 +1435,7 @@ textarea {
   -webkit-user-select: none;
   user-select: none;
   z-index: 100;
-  background: var(--bg_color_L2);
+  background: var(--text-primary);
   color: var(--text_color_L1);
 }
 .navbar__content[data-v-12a80a3e] {

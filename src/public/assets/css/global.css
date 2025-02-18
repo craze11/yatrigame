@@ -1,10 +1,16 @@
 :root {
+  --bg-background: #f7f8ff;
   --text-foreground: #ffffff;
   --text-primary: #8f00ff;
   --text-secondary: #333;
   --text-accent: #f5a93b;
+  --text-subtitle: #1e2637;
+  --primary-border: #ffffff6b;
+  --shadow-sm: 0 1px 3px 0 rgb(0 0 0 / 0.1);
 }
-
+.background {
+  background: var(--bg-background);
+}
 .text-secondary {
   color: var(--text-secondary);
 }
@@ -19,4 +25,12 @@
 
 .text-foreground {
   color: var(--text-foreground);
+}
+
+.text-subtitle {
+  color: var(--text-subtitle);
+}
+
+.border-primary {
+  border-color: var(--primary-border);
 }

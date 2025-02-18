@@ -1020,7 +1020,7 @@ textarea {
   bottom: 0;
   right: 0;
   height: 0.01333rem;
-  border-bottom: 0.01333rem solid var(--Dividing-line_color);
+  border-bottom: 0.01333rem solid var(--primary-border);
   color: #e6e8e8;
   -webkit-transform-origin: 0 100%;
   transform-origin: 0 100%;

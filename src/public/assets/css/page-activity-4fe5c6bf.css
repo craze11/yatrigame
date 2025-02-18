@@ -857,9 +857,10 @@
   color: var(--text_color_L2);
   text-align: center;
   line-height: 1.17333rem;
-  background: var(--bg_color_L2);
+  background: var(--text-foreground);
   outline: none;
   border-radius: 0.26667rem;
+  box-shadow: var(--shadow-sm);
 }
 .dropdown__value[data-v-5067ef5e] {
   display: -webkit-box;
@@ -898,8 +899,10 @@
   height: 0.26667rem;
   text-align: start;
   opacity: 0;
-  border-radius: 0.13333rem;
-  background-color: var(--bg_color_L2);
+  border-radius: 0.26667rem;
+  background-color: var(--bg-background);
+  box-shadow: var(--shadow-sm);
+  padding: 2px 10px;
   overflow: hidden;
   z-index: 1;
   overflow-y: scroll;

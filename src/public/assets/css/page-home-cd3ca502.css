@@ -1512,7 +1512,6 @@ html:lang(ar) .lotteryGamesList__container-item__time[data-v-22e2ba37] {
   padding-left: 0.26667rem;
   font-size: 0.48rem;
   font-weight: 700;
-  color: var(--darkTextW, var(--text_color_L1));
 }
 .luckyWinners__container > h1[data-v-ffb14677]:before {
   content: "";
@@ -1615,7 +1614,7 @@ html:lang(ar) .lotteryGamesList__container-item__time[data-v-22e2ba37] {
   margin-bottom: 0.13333rem;
 }
 .luckyWinners__container-wrapper__item-winAmount span[data-v-ffb14677] {
-  color: var(--text_color_L2);
+  color: var(--text-accent);
   font-size: 0.32rem;
 }
 .van-toast[data-v-74b37c48] {
@@ -30812,12 +30811,12 @@ html:lang(ar) .WinTrx__C-head-more[data-v-ac90c264] {
 }
 .dailyProfitRank__content-list__item span.left-rank[data-v-84514e8e] {
   margin-right: 0.41333rem;
-  color: var(--text_color_L2);
+  color: var(--text-foreground);
   font-size: 0.48rem;
   font-weight: 500;
 }
 .dailyProfitRank__content-list__item span.middle-name[data-v-84514e8e] {
-  color: var(--text_color_L2);
+  color: var(--text-foreground);
   font-size: 0.32rem;
   white-space: nowrap;
   overflow: hidden;
@@ -30914,7 +30913,7 @@ html:lang(ar) .WinTrx__C-head-more[data-v-ac90c264] {
   width: 0.66667rem;
   height: 0.66667rem;
   margin: 0 0.24rem 0 0;
-  color: var(--main-color);
+  color: var(--text-accent);
 }
 .settingPanel__container-items-right[data-v-c93e4510] {
   display: -webkit-box;
@@ -31038,14 +31037,14 @@ html:lang(ar) .WinTrx__C-head-more[data-v-ac90c264] {
   width: 0.21333rem;
   height: 0.21333rem;
   vertical-align: middle;
-  color: var(--main-color);
+  color: var(--text-accent);
 }
 .terms-rule span[data-v-a3117ed9] {
   margin-left: 0.06667rem;
   vertical-align: middle;
 }
 .terms-tips[data-v-a3117ed9] {
-  color: var(--norm_red-color);
+  color: var(--text-accent);
   font-family: Inter;
   font-size: 0.32rem;
   font-weight: 400;
@@ -32284,7 +32283,7 @@ html:lang(ar) .WinTrx__C-head-more[data-v-ac90c264] {
 .content-daman__right .message svg {
   width: 0.74667rem;
   height: 0.74667rem;
-  color: var(--main-color);
+  color: var(--text-foreground);
 }
 .content-daman__right .point {
   position: absolute;
